@@ -9,3 +9,7 @@
 
 los datos del proyecto vienen de la competicion: "Zillow Prize: Zillow´s Home Value Prediction". El link es el siguiente: https://www.kaggle.com/competitions/zillow-prize-1/data?select=zillow_data_dictionary.xlsx
 
+## Video segunda entrega 
+
+El video esta almacenado en el drive, debido al alto peso del mismo no se pudo subir a github 
+https://drive.google.com/file/d/1BYyNtN0nqNlKCJr-EC8S6CDCFY-0pRlW/view?usp=sharing
