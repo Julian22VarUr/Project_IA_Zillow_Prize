@@ -1,4 +1,5 @@
-# Project_IA_Zillow_Prize
+# Proyecto-IA-Zillow-prize
+
 ## Miembros del grupo 
 
 - Arthur Jose Mosquera, CC: 1003073445, Ingenieria Industrial
@@ -9,7 +10,6 @@
 
 los datos del proyecto vienen de la competicion: "Zillow Prize: Zillow´s Home Value Prediction". El link es el siguiente: https://www.kaggle.com/competitions/zillow-prize-1/data?select=zillow_data_dictionary.xlsx
 
-## Video segunda entrega 
-
-El video esta almacenado en youtube, debido al alto peso del mismo no se pudo subir a github 
-[https://youtu.be/-u6ch5oSda0](https://youtu.be/-u6ch5oSda0)
+## Videos
+- [Video segunda entrega](https://www.youtube.com/watch?v=-u6ch5oSda0&ab_channel=JUANjToro)
+- [Video entrega final](https://youtu.be/DBfi8RVNV3s)
